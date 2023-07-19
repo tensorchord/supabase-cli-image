@@ -87,8 +87,8 @@ github.com/stretchr/testify v1.8.1/go.mod h1:w2LPCIKwWwSfY2zedu0+kehJoqGctiVI29o
 github.com/stretchr/testify v1.8.2/go.mod h1:w2LPCIKwWwSfY2zedu0+kehJoqGctiVI29o6fzry7u4=
 github.com/stretchr/testify v1.8.3/go.mod h1:sz/lmYIOXD/1dqDmKjjqLyZ2RngseejIcXlSw2iwfAo=
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
-github.com/supabase/cli v1.79.0 h1:ccCL3tcTVavg0p56EPofesjyYhstAaORbYLqhG/QWCw=
-github.com/supabase/cli v1.79.0/go.mod h1:xU4Fu9doTto8GPMlPQntm+LBDPfG4cKQhwtwA67jEwM=
+github.com/supabase/cli v1.81.0 h1:UZxTH1iHcw9a9dQ3JcA/G0+sh1NLpZn7tS7CgvYRTm8=
+github.com/supabase/cli v1.81.0/go.mod h1:xU4Fu9doTto8GPMlPQntm+LBDPfG4cKQhwtwA67jEwM=
 github.com/twitchyliquid64/golang-asm v0.15.1 h1:SU5vSMR7hnwNxj24w34ZyCi/FmDZTkS4MhqMhdFk5YI=
 github.com/twitchyliquid64/golang-asm v0.15.1/go.mod h1:a1lVb/DtPvCB8fslRZhAngC2+aY1QWCk3Cedj/Gdt08=
 github.com/ugorji/go/codec v1.2.11 h1:BMaWp1Bb6fHwEtbplGBGJ498wD+LKlNSl25MjdZY4dU=
