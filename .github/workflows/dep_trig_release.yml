@@ -68,3 +68,4 @@ jobs:
   dependabot-release:
     needs: dependabot-push-tag
     uses: ./.github/workflows/release.yml
+    secrets: inherit
