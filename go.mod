@@ -2,7 +2,7 @@ module github.com/tensorchord/supabase-cli-image
 
 go 1.19
 
-require github.com/supabase/cli v1.90.2
+require github.com/supabase/cli v1.91.1
 
 require (
 	github.com/apapsch/go-jsonmerge/v2 v2.0.0 // indirect
