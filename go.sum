@@ -15,6 +15,6 @@ github.com/spkg/bom v0.0.0-20160624110644-59b7046e48ad/go.mod h1:qLr4V1qq6nMqFKk
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UVUgZn+9EI=
 github.com/stretchr/testify v1.8.4 h1:CcVxjf3Q8PM0mHUKJCdn+eZZtm5yQwehR5yeSVQQcUk=
-github.com/supabase/cli v1.100.1 h1:8hrXEl6nW41bUWcX8YVuyws/iv8Y6uIcYKMwe6WhxQk=
-github.com/supabase/cli v1.100.1/go.mod h1:wffoc2fib/xfMXsFdcwuwcm+JS722jTn5buQRgh/if0=
+github.com/supabase/cli v1.102.0 h1:xGk+uv0XkEs9JuyESP7kq7G7t61G7l16TeXXxggIn34=
+github.com/supabase/cli v1.102.0/go.mod h1:wffoc2fib/xfMXsFdcwuwcm+JS722jTn5buQRgh/if0=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
